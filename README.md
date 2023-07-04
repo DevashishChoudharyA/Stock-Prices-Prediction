@@ -7,8 +7,10 @@ Artificial Intelligence is changing virtually every aspect of our lives. Todayâ€
 ![alt text](work-flow.png)
 
 # Scaling
-![alt text](Scaling.png)
+![alt text](scaling.png)
 
+# Walk Forward
+![alt text](walk-forward.png)
 
 Methods: 
 Long short-term memory (LSTM) recurrent neural network
